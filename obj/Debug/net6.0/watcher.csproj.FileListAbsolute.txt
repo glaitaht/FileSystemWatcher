@@ -1,0 +1,15 @@
+C:\Users\Cem\Desktop\watcher\watcher\bin\Debug\net6.0\watcher.exe
+C:\Users\Cem\Desktop\watcher\watcher\bin\Debug\net6.0\watcher.deps.json
+C:\Users\Cem\Desktop\watcher\watcher\bin\Debug\net6.0\watcher.runtimeconfig.json
+C:\Users\Cem\Desktop\watcher\watcher\bin\Debug\net6.0\watcher.dll
+C:\Users\Cem\Desktop\watcher\watcher\bin\Debug\net6.0\ref\watcher.dll
+C:\Users\Cem\Desktop\watcher\watcher\bin\Debug\net6.0\watcher.pdb
+C:\Users\Cem\Desktop\watcher\watcher\obj\Debug\net6.0\watcher.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\watcher\watcher\obj\Debug\net6.0\watcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\watcher\watcher\obj\Debug\net6.0\watcher.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\watcher\watcher\obj\Debug\net6.0\watcher.AssemblyInfo.cs
+C:\Users\Cem\Desktop\watcher\watcher\obj\Debug\net6.0\watcher.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\watcher\watcher\obj\Debug\net6.0\watcher.dll
+C:\Users\Cem\Desktop\watcher\watcher\obj\Debug\net6.0\ref\watcher.dll
+C:\Users\Cem\Desktop\watcher\watcher\obj\Debug\net6.0\watcher.pdb
+C:\Users\Cem\Desktop\watcher\watcher\obj\Debug\net6.0\watcher.genruntimeconfig.cache

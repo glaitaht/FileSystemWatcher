@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a290c2fd-081d-4d8a-82d2-3864b5cd2e88": {
+      "ProjectGuid": "a290c2fd-081d-4d8a-82d2-3864b5cd2e88",
+      "DisplayName": "watcher",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
